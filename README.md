@@ -41,11 +41,11 @@ print("안녕 코드 블록이야")
 `print("나는 인라인 코드라고 해")`
 
 ### 일반적인 이미지 삽입 방식
-![이미지가 안 보여요]( "동아대 로고")
+![이미지가 안 보여요](https://raw.githubusercontent.com/vixiv0418/Oss2025/refs/heads/main/%EB%8F%99%EC%95%84%EB%8C%80.jfif "동아대 로고")
 
 ### 참조 링크 방식
 ![][id]
-[id]: logo.png "Title"
+[id]: https://raw.githubusercontent.com/vixiv0418/Oss2025/refs/heads/main/%EB%8F%99%EC%95%84%EB%8C%80.jfif "Title"
 
 이거 뭔지 모르겠음...
 
