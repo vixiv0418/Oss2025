@@ -45,7 +45,7 @@ print("안녕 코드 블록이야")
 
 ### 참조 링크 방식
 ![][id]
-[id]: https://raw.githubusercontent.com/vixiv0418/Oss2025/refs/heads/main/%EB%8F%99%EC%95%84%EB%8C%80.jfif "Title"
+[id]:https://raw.githubusercontent.com/vixiv0418/Oss2025/refs/heads/main/%EB%8F%99%EC%95%84%EB%8C%80.jfif "Title"
 
 이거 뭔지 모르겠음...
 
