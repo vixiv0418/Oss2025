@@ -40,10 +40,13 @@ print("안녕 코드 블록이야")
 ```
 `print("나는 인라인 코드라고 해")`
 
-![alt text](logo.png "Title")
+### 일반적인 이미지 삽입 방식
+![이미지가 안 보여요](logo.png "Title")
 
+### 참조 링크 방식
 ![][id]
 [id]: logo.png "Title"
 
+이거 뭔지 모르겠음...
 
 
