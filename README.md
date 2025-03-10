@@ -31,6 +31,7 @@ Click [here][id]
 ### 앵커를 사용해 보자
 <a id="anchor"></a>
 
+자 앵커란 go to anchor를 클릭할 시에 id="anchor"로 지정된 특정 위치로 스크롤 되는 것.
 
 솔직히 이건 뭔지 모르겠음...
 
